@@ -12,6 +12,15 @@
 		200F2DCA1C60FBC400714AB6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 200F2DC81C60FBC400714AB6 /* Main.storyboard */; };
 		200F2DCC1C60FBC400714AB6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 200F2DCB1C60FBC400714AB6 /* Assets.xcassets */; };
 		200F2DCF1C60FBC400714AB6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 200F2DCD1C60FBC400714AB6 /* LaunchScreen.storyboard */; };
+		200F2DDF1C61C41D00714AB6 /* UITabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200F2DDE1C61C41D00714AB6 /* UITabBarController.swift */; };
+		200F2DE11C61CC7C00714AB6 /* SignViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200F2DE01C61CC7C00714AB6 /* SignViewController.swift */; };
+		200F2DE31C61CCAC00714AB6 /* firstCreateAccount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200F2DE21C61CCAC00714AB6 /* firstCreateAccount.swift */; };
+		200F2DE51C61CCE400714AB6 /* secondCreateAccount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200F2DE41C61CCE400714AB6 /* secondCreateAccount.swift */; };
+		200F2DE71C61CD0000714AB6 /* thirdCreateAccount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200F2DE61C61CD0000714AB6 /* thirdCreateAccount.swift */; };
+		200F2DE91C61CD1B00714AB6 /* forthCreateAccount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200F2DE81C61CD1B00714AB6 /* forthCreateAccount.swift */; };
+		200F2DEB1C61CD3400714AB6 /* fifthCreateAccount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200F2DEA1C61CD3400714AB6 /* fifthCreateAccount.swift */; };
+		200F2DED1C61CD5B00714AB6 /* termsCreateAccount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200F2DEC1C61CD5B00714AB6 /* termsCreateAccount.swift */; };
+		200F2DEF1C61CD7300714AB6 /* termsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200F2DEE1C61CD7300714AB6 /* termsController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +31,15 @@
 		200F2DCB1C60FBC400714AB6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		200F2DCE1C60FBC400714AB6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		200F2DD01C60FBC400714AB6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		200F2DDE1C61C41D00714AB6 /* UITabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITabBarController.swift; sourceTree = "<group>"; };
+		200F2DE01C61CC7C00714AB6 /* SignViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignViewController.swift; sourceTree = "<group>"; };
+		200F2DE21C61CCAC00714AB6 /* firstCreateAccount.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = firstCreateAccount.swift; sourceTree = "<group>"; };
+		200F2DE41C61CCE400714AB6 /* secondCreateAccount.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = secondCreateAccount.swift; sourceTree = "<group>"; };
+		200F2DE61C61CD0000714AB6 /* thirdCreateAccount.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = thirdCreateAccount.swift; sourceTree = "<group>"; };
+		200F2DE81C61CD1B00714AB6 /* forthCreateAccount.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = forthCreateAccount.swift; sourceTree = "<group>"; };
+		200F2DEA1C61CD3400714AB6 /* fifthCreateAccount.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = fifthCreateAccount.swift; sourceTree = "<group>"; };
+		200F2DEC1C61CD5B00714AB6 /* termsCreateAccount.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = termsCreateAccount.swift; sourceTree = "<group>"; };
+		200F2DEE1C61CD7300714AB6 /* termsController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = termsController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +75,15 @@
 				200F2DC41C60FBC400714AB6 /* AppDelegate.swift */,
 				200F2DC61C60FBC400714AB6 /* ViewController.swift */,
 				200F2DC81C60FBC400714AB6 /* Main.storyboard */,
+				200F2DEE1C61CD7300714AB6 /* termsController.swift */,
+				200F2DEC1C61CD5B00714AB6 /* termsCreateAccount.swift */,
+				200F2DEA1C61CD3400714AB6 /* fifthCreateAccount.swift */,
+				200F2DE81C61CD1B00714AB6 /* forthCreateAccount.swift */,
+				200F2DE61C61CD0000714AB6 /* thirdCreateAccount.swift */,
+				200F2DE41C61CCE400714AB6 /* secondCreateAccount.swift */,
+				200F2DE21C61CCAC00714AB6 /* firstCreateAccount.swift */,
+				200F2DE01C61CC7C00714AB6 /* SignViewController.swift */,
+				200F2DDE1C61C41D00714AB6 /* UITabBarController.swift */,
 				200F2DCB1C60FBC400714AB6 /* Assets.xcassets */,
 				200F2DCD1C60FBC400714AB6 /* LaunchScreen.storyboard */,
 				200F2DD01C60FBC400714AB6 /* Info.plist */,
@@ -135,8 +162,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				200F2DE71C61CD0000714AB6 /* thirdCreateAccount.swift in Sources */,
+				200F2DE51C61CCE400714AB6 /* secondCreateAccount.swift in Sources */,
+				200F2DE11C61CC7C00714AB6 /* SignViewController.swift in Sources */,
 				200F2DC71C60FBC400714AB6 /* ViewController.swift in Sources */,
+				200F2DEB1C61CD3400714AB6 /* fifthCreateAccount.swift in Sources */,
+				200F2DEF1C61CD7300714AB6 /* termsController.swift in Sources */,
+				200F2DED1C61CD5B00714AB6 /* termsCreateAccount.swift in Sources */,
+				200F2DDF1C61C41D00714AB6 /* UITabBarController.swift in Sources */,
+				200F2DE91C61CD1B00714AB6 /* forthCreateAccount.swift in Sources */,
 				200F2DC51C60FBC400714AB6 /* AppDelegate.swift in Sources */,
+				200F2DE31C61CCAC00714AB6 /* firstCreateAccount.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,6 +320,7 @@
 				200F2DD51C60FBC400714AB6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
