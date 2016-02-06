@@ -1,14 +1,14 @@
 //
-//  CreateAccountViewController.swift
+//  registerViewController.swift
 //  Dropbox
 //
-//  Created by Kelly Dern on 2/3/16.
+//  Created by Kelly Dern on 2/4/16.
 //  Copyright © 2016 codepath. All rights reserved.
 //
 
 import UIKit
 
-class CreateAccountViewController: UIViewController {
+class registerViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

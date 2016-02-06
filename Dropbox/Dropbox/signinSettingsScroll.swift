@@ -1,25 +1,31 @@
 //
-//  CreateAccountViewController.swift
+//  signinSettingsScroll.swift
 //  Dropbox
 //
-//  Created by Kelly Dern on 2/3/16.
+//  Created by Kelly Dern on 2/4/16.
 //  Copyright © 2016 codepath. All rights reserved.
 //
 
 import UIKit
 
-class CreateAccountViewController: UIViewController {
+class signinSettingsScroll: UIViewController {
 
+    @IBOutlet weak var scrollView: UIScrollView!
     override func viewDidLoad() {
         super.viewDidLoad()
-
         // Do any additional setup after loading the view.
+        scrollView.contentSize = CGSize(width: 320, height: 1000)
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+   
+    
+    
+    
     
 
     /*

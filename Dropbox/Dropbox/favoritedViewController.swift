@@ -1,14 +1,14 @@
 //
-//  CreateAccountViewController.swift
+//  favoritedViewController.swift
 //  Dropbox
 //
-//  Created by Kelly Dern on 2/3/16.
+//  Created by Kelly Dern on 2/4/16.
 //  Copyright © 2016 codepath. All rights reserved.
 //
 
 import UIKit
 
-class CreateAccountViewController: UIViewController {
+class favoritedViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -21,6 +21,16 @@ class CreateAccountViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    @IBAction func onButton(sender: UIButton) {
+        if(sender.selected == false)
+        {
+            sender.selected = true
+        }
+        else
+        {
+            sender.selected = false 
+        }
+    }
 
     /*
     // MARK: - Navigation

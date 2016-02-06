@@ -10,6 +10,9 @@ import UIKit
 
 class termsController: UIViewController {
 
+    
+    @IBOutlet var feedScrollView: UIView!
+
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -19,6 +22,8 @@ class termsController: UIViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
+        
+        
     }
     
 

@@ -1,5 +1,5 @@
 //
-//  CreateAccountViewController.swift
+//  CreateNewAccountViewController.swift
 //  Dropbox
 //
 //  Created by Kelly Dern on 2/3/16.
@@ -8,8 +8,7 @@
 
 import UIKit
 
-class CreateAccountViewController: UIViewController {
-
+class CreateNewAccountViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 

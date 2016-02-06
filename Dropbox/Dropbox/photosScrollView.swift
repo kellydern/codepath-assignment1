@@ -1,5 +1,5 @@
 //
-//  CreateAccountViewController.swift
+//  photosScrollView.swift
 //  Dropbox
 //
 //  Created by Kelly Dern on 2/3/16.
@@ -8,12 +8,16 @@
 
 import UIKit
 
-class CreateAccountViewController: UIViewController {
+class photosScrollView: UIViewController {
 
+    @IBOutlet weak var photosView: UIScrollView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        
+        photosView.contentSize = CGSize(width: 320, height: 1000)
     }
 
     override func didReceiveMemoryWarning() {
