@@ -1,12 +1,12 @@
 # codepath-assignment1
 Codepath assignment 1
-Time spent ~5 hours
+Week 1 Project: Dropbox
 
-This is an iOS demo application of Dropbox.
+This is an iOS demo application of Dropbox to show the signed out state to the basic sign in state. Users can create an account or sign in to an existing account to preview and favorite their files.
 
-Time spent: ~10 hours spent in total
+Time spent: ~10 hours spent in total including research and creation of the prototype. 
 
-Completed user stories:
+<b>Completed user stories:</b>
 
 Required: User can tap through the 3 welcome screens.<br>
 Required: User can follow the create user flow.<br>
@@ -17,10 +17,10 @@ Required: User can log out from the Settings screen.<br>
 Required: User can follow the sign in flow.<br>
 Required: User can tap the area for "Having trouble signing in?"<br>
 Required: User can log out from the Settings screen.<br>
-Optional: Add a detail view for one of the files and implement favoriting the file. User can then unclick the button. <br>
-Notes:
 
-Walkthrough of all user stories:
+Optional: Add a detail view for one of the files and implement favoriting the file. User can then unclick the button. <br>
+
+<b>Walkthrough of all user stories:</b>
 
 <img src="https://github.com/kellydern/codepath-assignment1/blob/master/codepath-assignment1.gif">
 
