@@ -21,3 +21,7 @@ Optional: Add a detail view for one of the files and implement favoriting the fi
 Notes:
 
 Walkthrough of all user stories:
+
+<img src="https://github.com/kellydern/codepath-assignment1/blob/master/codepath-assignment1.gif">
+
+GIF created with <a href="http://www.cockos.com/licecap/">LiceCap.</a>
